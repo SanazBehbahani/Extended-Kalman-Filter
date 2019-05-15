@@ -59,3 +59,9 @@ This package is used to visualize the estimated position and orientation of the 
 ### Topic graph
 
 ![p5](https://user-images.githubusercontent.com/7389485/57753722-bcbfa800-76a1-11e9-918b-3bb62c993c6f.JPG)
+
+## main package
+
+This package will launch allthe nodes together to make it easier. 
+
+
