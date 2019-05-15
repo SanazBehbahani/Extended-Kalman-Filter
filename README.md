@@ -53,3 +53,9 @@ This package is used to drive the robot using keyboard.
 ![p4](https://user-images.githubusercontent.com/7389485/57752129-d27e9e80-769c-11e9-9bcd-0f60738ca717.JPG)
 
 ## rviz package
+
+This package is used to visualize the estimated position and orientation of the robot.
+
+### Topic graph
+
+![p5](https://user-images.githubusercontent.com/7389485/57753722-bcbfa800-76a1-11e9-918b-3bb62c993c6f.JPG)
