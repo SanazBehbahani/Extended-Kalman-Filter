@@ -26,6 +26,14 @@ Gazebo launchers and worlds for TurtleBot simulation.
 
 ## robot_pose_ekf package
 
+This package is used to estimate the 3D pose of a robot based on (partial) pose measurement coming from different sources.
+It uses Extended Kalman Filter with a 6D model (3D position and D orientation) to combine measurements from wheel odometry, IMU sensor, and visual odometry. 
+
+### Topic graph
+
+![p2](https://user-images.githubusercontent.com/7389485/57750705-1cb15100-7698-11e9-971d-adabf42ee36a.JPG)
+
+
 ## odom_to_trajectory package
 
 ## turtlebot_teleop package
