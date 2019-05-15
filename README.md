@@ -45,4 +45,11 @@ It consists of two nodes:
 
 ## turtlebot_teleop package
 
+This package is used to drive the robot using keyboard. 
+
+
+### Topic graph
+
+![p4](https://user-images.githubusercontent.com/7389485/57752129-d27e9e80-769c-11e9-9bcd-0f60738ca717.JPG)
+
 ## rviz package
